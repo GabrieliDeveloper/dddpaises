@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(166, 140, 190);
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(82, 235, 255);
+}
+
+p {
+    text-align: center;
+    text-transform: uppercase;
+    color: antiquewhite;
+}
+
+div#res {
+    text-align: center;
+    color: rgb(0, 255, 0);
+}
+
+img#foto {
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(0, 255, 13);
+    
+}
